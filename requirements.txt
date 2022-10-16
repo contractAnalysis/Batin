@@ -1,0 +1,17 @@
+coloredlogs>=10.0
+configparser>=3.5.0
+coverage
+ethereum>=2.3.2
+ethereum-input-decoder>=0.2.2
+
+mock
+
+py-solc-x==1.0.0
+py-solc
+pytest>=3.6.0
+pytest-cov
+pytest_mock
+
+persistent>=4.2.0
+
+
